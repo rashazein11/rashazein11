@@ -1,6 +1,16 @@
-## Hi World! I'm College Student in Pancasila University 🧑🏻‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+World%21+I%27m+College+Student+in+Pancasila+University+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+
+
+
 
 ![Rasha Zein](img/github-header-banner.png)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rashazein11&label=Profile%20Views&color=555555&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/muhamad-rasha-zein-629b44383/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rashazeinn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/rasha.zein.754/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+</p>
 
 #### 🧑🏻‍💻 Skills & 🤖 Artificial Intelligence
 
