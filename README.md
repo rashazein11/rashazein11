@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+World%21+I%27m+College+Student+in+Pancasila+University+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C5CE7&center=true&vCenter=true&width=900&lines=Hi+World%21+I%27m+College+Student+in+Pancasila+University+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 ![Rasha Zein](img/github-header-banner.png)
