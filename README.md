@@ -54,3 +54,9 @@
 ![https://www.linkedin.com/in/muhamad-rasha-zein-629b44383/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
+#### 🎮 My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rashazein11/rashazein11/output/galaga-contribution-graph-dark.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/rashazein11/rashazein11/output/galaga-contribution-graph.svg">
+</picture>
